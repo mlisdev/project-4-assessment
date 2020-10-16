@@ -14,13 +14,13 @@ function Circles(props){
                 </div>
             <div
                 className={props.selected === 3 ? 'selected' : ''} >
-                3<
-                    /div>
+                3
+                </div>
             <div
                     className={props.selected === 4 ? 'selected' : ''} >
-                    4
+                4
                     </div>
-        </div>
+            </div>
     )
 }
 
